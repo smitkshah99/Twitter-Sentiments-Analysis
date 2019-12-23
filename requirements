@@ -1,0 +1,12 @@
+ Requirements for running this project -
+ 
+ * Python3
+ * Sublime Text
+ * Google Chrome
+ 
+ Libraries used :
+ * Tweepy
+ * Matplotlib
+ * Pandas
+ * Numpy
+ * Textblob
