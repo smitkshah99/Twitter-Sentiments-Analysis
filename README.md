@@ -10,10 +10,10 @@ Analysis of Polarity and subjectivity of sentiments from the tweets using Textbl
 
 
 # Contributors :- \
-Smit Shah\
-Nidhi Sapra\
-Anurag Sen\
-Akshat Shrivatsav\
-Dhruvanshu Shah\
-Mohak\
+Smit Shah \
+Nidhi Sapra \
+Anurag Sen \
+Akshat Shrivatsav \
+Dhruvanshu Shah \
+Mohak \
 
