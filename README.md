@@ -9,11 +9,11 @@ Analysis of Polarity and subjectivity of sentiments from the tweets using Textbl
 4.Run the file\
 
 
-# Contributors :- \
+# Contributors :- 
 Smit Shah \
 Nidhi Sapra \
 Anurag Sen \
 Akshat Shrivatsav \
 Dhruvanshu Shah \
-Mohak \
+Mohak 
 
