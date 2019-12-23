@@ -17,4 +17,4 @@ Akshat Shrivatsav \
 Dhruvanshu Shah \
 Mohak 
 
-![alt text](/home/smit/Downloads/sent1.png)
+
